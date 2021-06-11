@@ -1,0 +1,16 @@
+body {
+ background-color: #343a40 !important;
+}
+
+.btn-yellow {
+    background-color:  #ffc107 !important;
+}
+
+.active {
+    background-color: #7952b3 !important;
+    border-color: #7952b3 !important;;
+}
+
+.bi-x {
+    font-size: 40px;
+}
