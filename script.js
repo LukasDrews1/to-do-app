@@ -16,6 +16,7 @@ function add() {
         todos.push({id: todos.length+1, value, checked: false});
         updateLocalStorage();
         updateHTML();
+        document.getElementById("value").value = "";
     }
 }
 
